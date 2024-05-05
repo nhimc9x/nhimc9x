@@ -4,9 +4,12 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?color=gradient&type=waving&section=footer&fontColor=36bcf7FF&height=120&animation=&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=&strokeWidth=0&text=V%C5%A9+V%C4%83n+Nh%E1%BB%8B&reversal=true" alt="" />
 </div>
-<h5 align="center">
+<h1 align="left">
+    
+</h1>
+<h3 align="center">
     Socials
-</h5>
+</h3>
 <div align="center"><a href="https://www.facebook.com/nhi.vuvan.545">
     <img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="40" />
     </a>
@@ -27,9 +30,12 @@
     <img src="https://api.iconify.design/iconamoon/profile-fill.svg" alt="iconamoon:profile-fill" height="40" />
     </a>
 </div>
-<h5 align="center">
+<h1 align="left">
+    
+</h1>
+<h3 align="center">
     Skills
-</h5>
+</h3>
 <div align="center"><img src="https://api.iconify.design/devicon/html5.svg" alt="devicon:html5" height="40" />
     <img width="20" />
     <img src="https://api.iconify.design/devicon/css3.svg" alt="devicon:css3" height="40" />
@@ -46,6 +52,9 @@
     <img width="20" />
     <img src="https://api.iconify.design/logos/material-ui.svg" alt="logos:material-ui" height="40" />
 </div>
+<h1 align="left">
+    
+</h1>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nhimc9x&theme=tokyonight&hide_border=true&show_icons=true&hide_title=false&disable_animations=false&hide_rank=false&rank_icon=github&hide=&show=&locale=EN" />
 </div>
